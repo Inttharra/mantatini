@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('fonts/thsarabunnew-webfont.eot');
+    src: url('fonts/thsarabunnew-webfont.woff') format('woff'),
+         url('fonts/thsarabunnew-webfont.ttf') format('truetype');
+}
+/*.thsarabunnew{
+   font-family: 'THSarabunNew', sans-serif;
+}
+@import url(fonts/thsarabunnew.css);*/
+body{ font-family: 'THSarabunNew', sans-serif; }
+
+/* h2 {
+   align-content: center;
+} */
